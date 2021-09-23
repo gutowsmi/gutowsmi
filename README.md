@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gutowsmi
 - 👀 I’m interested in cloud, networking, device automtion, IoT, web Apps
 - 🌱 I’m currently learning PowerShell and Docker
+- 🏢 Currently working @Danone
 - 📫 How to reach me: michal.gutowski2002@protonmail.com
 
 <!---
