@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gutowsmi
-- 👀 I’m interested in cloud, networking, device automqtion, IoT, web Apps
+- 👀 I’m interested in cloud, networking, device automation, IoT, web Apps
 - 🌱 I’m currently learning PowerShell and Docker
 - 🏢 Currently working @Danone
 - 💻 Programming languages:
