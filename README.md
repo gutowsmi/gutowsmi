@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PowerShell and Docker
 - 🏢 Currently working @Danone
 - 💻 Programming languages:
-    JavaScript
+    JavaScript,
     Python
 - 📫 How to reach me: michal.gutowski2002@protonmail.com
 
